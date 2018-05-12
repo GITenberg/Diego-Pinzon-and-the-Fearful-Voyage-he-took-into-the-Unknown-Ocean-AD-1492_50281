@@ -1,10 +1,16 @@
 _repo: Diego-Pinzon-and-the-Fearful-Voyage-he-took-into-the-Unknown-Ocean-AD-1492_50281
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50281-h/images/cover.jpg
 creator:
   author:
     agent_name: Coryell, John Russell
     gutenberg_agent_id: '45792'
     url: http://www.gutenberg.org/2009/agents/45792
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50281#Diego-Pinzon-and-the-Fearful-Voyage-he-took-into-the-Unknown-Ocean-AD-1492
 gutenberg_issued: '2015-10-22'
 gutenberg_type: Text
 identifiers:
