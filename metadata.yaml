@@ -19,5 +19,7 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Diego Pinzon and the Fearful Voyage he took into the Unknown Ocean A.D. 1492
 url: http://www.gutenberg.org/ebooks/50281
